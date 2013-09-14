@@ -167,7 +167,7 @@ int main()
 		" the generation limit.\n%d let the glider through.\n\n",
 		foundcount, numReapp, numStable, numDied,
 		numP2, numEdge, numLong, numThru);
-	printf("Test completed in %d seconds.\n", endTime-startTime);
+	//printf("Test completed in %d seconds.\n", endTime-startTime);
 	printf("   ----------\n");
 	
 	/*if(ProfilerDump("\pprofile")!=noErr)
